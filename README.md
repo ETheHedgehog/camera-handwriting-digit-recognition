@@ -9,3 +9,7 @@ Using the Mediapipe and OpenCV library, this program recognizes three main gestu
 3. Recognize: close all fingers and the program will recognize the digit and clear the canvas
 
 Currently the program only works with right hands.
+
+The current trained_model.h5 was trained at 500 iterations, you can change the number of iterations in TrainNN.py and train it again for more accuracy
+
+Start the program by running the Recognize.py file
